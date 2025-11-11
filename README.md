@@ -26,16 +26,6 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 
 ## 🚀 Featured Projects
 
-### 🛰️ **Ku-Band Phased Array Antenna**
-> *Design of Aperture-Coupled Feeding Antenna on Multilayer PCB for Satellite Communication*
-
-- Modeled multilayer aperture-coupled patch antenna arrays in **HFSS**
-- Optimized for 12–18 GHz (Ku-Band)
-- Achieved high isolation and directional beam-steering capability  
-
-🧩 *Tools:* HFSS, CST, ADS, MATLAB  
-
----
 
 ### 🧩 **BCI Signal Processing Pipeline**
 > *EEG-based cognitive state classification using MNE-Python*
@@ -44,7 +34,18 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 - Extracted features for cognitive workload detection  
 - Visualized neural activity using topomap projections  
 
-🧠 *Tools:* Python, MNE-Python, NumPy, Matplotlib  
+🧠 *Tools:* Python, MATLAB, MNE-Python, NumPy, SIMNIBS, Matplotlib  
+
+---
+
+### 🛰️ **Ku-Band Phased Array Antenna**
+> *Design of Aperture-Coupled Feeding Antenna on Multilayer PCB for Satellite Communication*
+
+- Modeled multilayer aperture-coupled patch antenna arrays in **HFSS**
+- Optimized for 12–18 GHz (Ku-Band)
+- Achieved high isolation and directional beam-steering capability  
+
+🧩 *Tools:* Ansys HFSS, ADS Keysight, MATLAB, CST
 
 ---
 
@@ -55,7 +56,7 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 - Streamlined data logging and report generation  
 - Reduced manual test time by 70%  
 
-🧰 *Tools:* Python, PyVISA, Keysight Bench Instruments  
+🧰 *Tools:* VNA, Keysight Bench Instruments  
 
 ---
 
@@ -63,20 +64,20 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 | Category | Tools / Skills |
 |-----------|----------------|
 | **RF & EM Design** | HFSS, ADS, CST, Smith Chart, S-parameters |
-| **Programming** | Python, MATLAB, C++, Git |
+| **Programming** | Python, MATLAB, C, Git |
 | **PCB & Simulation** | KiCad, Altium, LineCalc, EM-cosimulation |
 | **Neurotech** | EEG, TMS coil modeling, Neurophotonics |
-| **Automation** | PyVISA, SCPI, RF test scripting |
+| **Automation** | SCPI, RF test scripting |
 
 ---
 
 ## 📚 Education
 🎓 **M.S. in Electrical & Computer Engineering** – Purdue University  
-Focus: RF Engineering, Electromagnetics, Neural Interface Systems  
+Focus: RF Engineering, Electromagnetics, TMS, Neural Interface Systems  
 📍 West Lafayette, IN, USA  
 
-🎓 **B.S. in Biomedical Engineering** – [Your Undergraduate University]  
-📍 (Add location or omit)
+🎓 **B.S. in Biomedical Engineering** – Purdue University 
+📍 West Lafayette, IN, USA 
 
 ---
 
