@@ -25,6 +25,11 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 
 ---
 
+<p align="center">
+  <img src="profile.jpg" alt="Hyunseolee Lee" width="180" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>
+</p>
+
+
 ## 🎯 Career Goals
 I am currently seeking a **Summer 2026 internship** opportunity in **RF engineering, antenna design, or neurotechnology hardware**.  
 My goal is to gain hands-on experience in advanced RF front-end design, test automation, and medical device systems that bridge **neuroscience and electromagnetics**. I am open to jobs that feature RFFE Design, Antenna Design and Test Automation.  
