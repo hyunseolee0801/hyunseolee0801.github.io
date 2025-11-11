@@ -6,9 +6,9 @@ theme: jekyll-theme-cayman
 ---
 -->
 
-# 👋 Hi, I'm **Hyunseolee Lee**
+# 👋 Hi, I'm **Hyunseo (*Tom) Lee**
 ### RF & Neuroengineering Researcher | Purdue University  
-🌎 Based in the U.S. | Formerly in Canada 🇨🇦
+🌎 Based in the U.S. | Formerly in Canada 🇨🇦 | Born In S.Korea
 
 ---
 
