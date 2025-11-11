@@ -77,6 +77,8 @@ Focus: RF Engineering, Electromagnetics, TMS, Neural Interface Systems
 📍 West Lafayette, IN, USA  
 
 🎓 **B.S. in Biomedical Engineering** – Purdue University 
+Minor: Electrical & Computer Engineering
+Focus: MRI, RF Coil
 📍 West Lafayette, IN, USA 
 
 ---
