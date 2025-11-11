@@ -84,6 +84,6 @@ Focus: RF Engineering, Electromagnetics, TMS, Neural Interface Systems
 ## 🌐 Connect with Me
 - 💼 [**LinkedIn**](https://linkedin.com/in/hyunseolee0801)
 - 🧠 [**GitHub**](https://github.com/hyunseolee0801)
-- ✉️ [**Email Me**](mailto:your_email@example.com)
+- ✉️ [**Email Me**](mailto:lee3325@purdue.edu)
 
 ---
