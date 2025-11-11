@@ -1,2 +1,86 @@
-# hyunseolee0801.github.io
-Website
+---
+title: "Hyunseolee Lee | RF & Neuroengineering Portfolio"
+description: "Master’s student in Electrical & Computer Engineering at Purdue University | RF, Antennas, and Brain-Computer Interfaces"
+theme: jekyll-theme-cayman
+---
+
+# 👋 Hi, I'm **Hyunseolee Lee**
+### RF & Neuroengineering Researcher | Purdue University  
+🌎 Based in the U.S. | Formerly in Canada 🇨🇦
+
+---
+
+## 🧠 About Me
+I'm a **Master’s student in Electrical and Computer Engineering at Purdue University** specializing in **RF Engineering, Electromagnetics, and Brain-Computer Interface (BCI) design**.  
+I integrate electromagnetic modeling, neuroscience, and circuit design to explore how **electromagnetic energy interacts with the human brain**.
+
+💡 *Interests:*  
+- RF & Antenna Design (Ku-Band, ISM Band, GNSS)
+- Neuro-stimulation (TMS, EEG, Neurophotonics)
+- Hardware Automation with Python  
+- RF Front-End Systems and PCB Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ **Ku-Band Phased Array Antenna**
+> *Design of Aperture-Coupled Feeding Antenna on Multilayer PCB for Satellite Communication*
+
+- Modeled multilayer aperture-coupled patch antenna arrays in **HFSS**
+- Optimized for 12–18 GHz (Ku-Band)
+- Achieved high isolation and directional beam-steering capability  
+
+🧩 *Tools:* HFSS, CST, ADS, MATLAB  
+
+---
+
+### 🧩 **BCI Signal Processing Pipeline**
+> *EEG-based cognitive state classification using MNE-Python*
+
+- Implemented EEG preprocessing, ICA artifact removal, and spectral analysis  
+- Extracted features for cognitive workload detection  
+- Visualized neural activity using topomap projections  
+
+🧠 *Tools:* Python, MNE-Python, NumPy, Matplotlib  
+
+---
+
+### ⚡ **RF Test Automation**
+> *Automating hardware verification for RF front-end modules*
+
+- Automated **VNA/MXA/Signal Generator** measurements via Python SCPI  
+- Streamlined data logging and report generation  
+- Reduced manual test time by 70%  
+
+🧰 *Tools:* Python, PyVISA, Keysight Bench Instruments  
+
+---
+
+## 🧰 Technical Toolbox
+| Category | Tools / Skills |
+|-----------|----------------|
+| **RF & EM Design** | HFSS, ADS, CST, Smith Chart, S-parameters |
+| **Programming** | Python, MATLAB, C++, Git |
+| **PCB & Simulation** | KiCad, Altium, LineCalc, EM-cosimulation |
+| **Neurotech** | EEG, TMS coil modeling, Neurophotonics |
+| **Automation** | PyVISA, SCPI, RF test scripting |
+
+---
+
+## 📚 Education
+🎓 **M.S. in Electrical & Computer Engineering** – Purdue University  
+Focus: RF Engineering, Electromagnetics, Neural Interface Systems  
+📍 West Lafayette, IN, USA  
+
+🎓 **B.S. in Biomedical Engineering** – [Your Undergraduate University]  
+📍 (Add location or omit)
+
+---
+
+## 🌐 Connect with Me
+- 💼 [**LinkedIn**](https://linkedin.com/in/hyunseolee0801)
+- 🧠 [**GitHub**](https://github.com/hyunseolee0801)
+- ✉️ [**Email Me**](mailto:your_email@example.com)
+
+---
