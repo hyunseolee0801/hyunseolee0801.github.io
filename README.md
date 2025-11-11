@@ -26,6 +26,12 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 
 ## 🚀 Featured Projects
 
+### 🧩 **Transcranial Magnetic Stimulation Prototype for small animal studies**
+> *Development of TMS Coils and EM field detection system*
+
+- To Be Updated
+
+🧠 *Tools:* PMATLAB, SIMNIBS, Matplotlib. Microcontroller
 
 ### 🧩 **BCI Signal Processing Pipeline**
 > *EEG-based cognitive state classification using MNE-Python*
