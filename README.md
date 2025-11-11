@@ -1,8 +1,10 @@
+<!-- 
 ---
 title: "Hyunseolee Lee | RF & Neuroengineering Portfolio"
 description: "Master’s student in Electrical & Computer Engineering at Purdue University | RF, Antennas, and Brain-Computer Interfaces"
 theme: jekyll-theme-cayman
 ---
+-->
 
 # 👋 Hi, I'm **Hyunseolee Lee**
 ### RF & Neuroengineering Researcher | Purdue University  
