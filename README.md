@@ -48,7 +48,7 @@ If your organization is developing next-generation RF systems or human-machine i
 
 - To Be Updated
 
-🧠 *Tools:* PMATLAB, SIMNIBS, Matplotlib. Microcontroller
+🧠 *Tools:* MATLAB, SIMNIBS, Matplotlib. Microcontroller
 
 ### 🧩 **BCI Signal Processing Pipeline**
 > *EEG-based cognitive state classification using MNE-Python*
