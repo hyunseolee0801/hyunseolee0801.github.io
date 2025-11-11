@@ -1,6 +1,6 @@
 <!-- 
 ---
-title: "Hyunseolee Lee | RF & Neuroengineering Portfolio"
+title: "Hyunseo Lee[Tom] | RF & Neuroengineering Portfolio"
 description: "Master’s student in Electrical & Computer Engineering at Purdue University | RF, Antennas, and Brain-Computer Interfaces"
 theme: jekyll-theme-cayman
 ---
