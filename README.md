@@ -24,6 +24,15 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 
 ---
 
+## 🎯 Career Goals
+I am currently seeking a **Summer 2026 internship** opportunity in **RF engineering, antenna design, or neurotechnology hardware**.  
+My goal is to gain hands-on experience in advanced RF front-end design, test automation, and medical device systems that bridge **neuroscience and electromagnetics**. I am open to jobs that feature RFFE Design, Antenna Design and Test Automation.  
+
+I plan to **graduate in Fall 2027** and am open to **full-time opportunities** that involve **RF circuit design, antenna arrays, biomedical instrumentation, or neurostimulation system development**.  
+If your organization is developing next-generation RF systems or human-machine interfaces, I would love to contribute my skills and research background to your team.  
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧩 **Transcranial Magnetic Stimulation Prototype for small animal studies**
