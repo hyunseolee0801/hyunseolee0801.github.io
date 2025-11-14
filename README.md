@@ -8,7 +8,7 @@ theme: jekyll-theme-cayman
 
 
 # 👋 Hi, I'm **Hyunseo Lee** 이현서
-Welcome to my Website
+Welcome to my Website 🐧💕🐉
 ### RF, Neurostimulation, EM Simulation Researcher | Purdue University  
 🌎 Residing in the U.S. | Formerly in Canada 🇨🇦 | Born In S.Korea[Citizenship]
 Fluency : English, Korean
