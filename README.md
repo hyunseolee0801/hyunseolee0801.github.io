@@ -5,9 +5,7 @@ description: "Master’s student in Electrical & Computer Engineering at Purdue 
 theme: jekyll-theme-cayman
 ---
 -->
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 # 👋 Hi, I'm **Hyunseo Lee**
 ### RF, Neurostimulation, EM Simulation Researcher | Purdue University  
