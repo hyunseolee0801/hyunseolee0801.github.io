@@ -85,8 +85,10 @@ If your organization is developing next-generation RF systems or human-machine i
 ---
 
 ## 🧰 Technical Toolbox
+<!-- 
 | Category | Tools / Skills |
 |-----------|----------------|
+-->
 | **RF & EM Design** | HFSS, ADS, CST, Smith Chart, S-parameters |
 | **Programming** | Python, MATLAB, C, Git |
 | **PCB & Simulation** | KiCad, Altium, LineCalc, EM-cosimulation |
