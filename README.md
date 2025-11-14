@@ -7,7 +7,8 @@ theme: jekyll-theme-cayman
 -->
 
 
-# 👋 Hi, I'm **Hyunseo Lee**
+# 👋 Hi, I'm **Hyunseo Lee** 이현서
+Welcome to my Website
 ### RF, Neurostimulation, EM Simulation Researcher | Purdue University  
 🌎 Residing in the U.S. | Formerly in Canada 🇨🇦 | Born In S.Korea[Citizenship]
 Fluency : English, Korean
@@ -30,7 +31,19 @@ I integrate electromagnetic modeling, neuroscience, and circuit design to explor
 
 ---
 
+---
 
+## 📚 Education
+🎓 **M.S. in Electrical & Computer Engineering** – Purdue University  
+Focus: RF Engineering, Electromagnetics, TMS, Neural Interface Systems  
+📍 West Lafayette, IN, USA  
+
+🎓 **B.S. in Biomedical Engineering** – Purdue University 
+Minor: Electrical & Computer Engineering
+Focus: MRI, RF Coil
+📍 West Lafayette, IN, USA 
+
+---
 
 
 ## 🎯 Career Goals
@@ -95,23 +108,28 @@ If your organization is developing next-generation RF systems or human-machine i
 | **Neurotech** | EEG, TMS coil modeling, Neurophotonics |
 | **Automation** | SCPI, RF test scripting |
 
----
+## 🏂 Skill Demonstration
 
-## 📚 Education
-🎓 **M.S. in Electrical & Computer Engineering** – Purdue University  
-Focus: RF Engineering, Electromagnetics, TMS, Neural Interface Systems  
-📍 West Lafayette, IN, USA  
 
-🎓 **B.S. in Biomedical Engineering** – Purdue University 
-Minor: Electrical & Computer Engineering
-Focus: MRI, RF Coil
-📍 West Lafayette, IN, USA 
 
----
+
+
+
+
+## 📓 Essay
+
+
+
+## 💪 Fitness
+
+
+
+## Teaching / Test Materials
 
 ## 🌐 Connect with Me
 - 💼 [**LinkedIn**](https://linkedin.com/in/hyunseolee0801)
 - 🧠 [**GitHub**](https://github.com/hyunseolee0801)
 - ✉️ [**Email Me**](mailto:lee3325@purdue.edu)
+- ⚓ [**Notion**](https://mixolydian-psychology-c10.notion.site/Neuroscience-f23eedff8ec44a77a6a5cf4f63da14df)
 
 ---
