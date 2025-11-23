@@ -108,6 +108,15 @@ If your organization is developing next-generation RF systems or human-machine i
 | **Neurotech** | EEG, TMS coil modeling, Neurophotonics |
 | **Automation** | SCPI, RF test scripting |
 
+
+##  Courses Taken
+<!-- 
+| ** Electromagnetic Theory ECE 604
+| ** RF System Design ECE 60422/3/4
+| ** Digital Signal Processing ECE 538 
+
+
+
 ## 🏂 Skill Demonstration
 
 
