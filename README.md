@@ -1,7 +1,7 @@
 <!-- 
 ---
-title: "Hyunseo Lee[Tom] | RF & Neuroengineering Portfolio"
-description: "Master’s student in Electrical & Computer Engineering at Purdue University | RF, Antennas, and Brain-Computer Interfaces"
+title: "Hyunseo Lee[Tom] | Analog / Mixed Signal Design Portfolio"
+description: "Master’s student in Electrical & Computer Engineering at Purdue University | RFIC, Analog/ Mixed Signal Circuits, and Brain-Computer Interfaces"
 theme: jekyll-theme-cayman
 ---
 -->
@@ -21,7 +21,8 @@ Fluency : English, Korean
 
 ## 🧠 About Me
 I'm a **Master’s student in Electrical and Computer Engineering at Purdue University** specializing in **RF Engineering, Electromagnetics, and Brain-Computer Interface (BCI) design**.  
-I integrate electromagnetic modeling, neuroscience, and circuit design to explore how **electromagnetic energy interacts with the human brain**.
+I integrate electromagnetic modeling, neuroscience, and circuit design to explore how **electromagnetic energy interacts with the human brain**. 
+Currently, I am focusing on developing my skills in Analog / Mixed Circuit Design with goals of implementing this skill into neural engineering. 
 
 💡 *Interests:*  
 - RF & Antenna Design (Ku-Band, ISM Band, GNSS)
@@ -56,6 +57,29 @@ If your organization is developing next-generation RF systems or human-machine i
 ---
 
 ## 🚀 Featured Projects
+
+
+### Allan Katz High Efficiency Power Amplifier
+IEEE MTTS 
+
+ADS and Cadence Virtuoso. 
+
+-> How this skill relates to neural engineering?
+
+
+### Phase-Locked Loop
+https://www.ti.com/lit/ml/snaa106c/snaa106c.pdf 
+https://www.cs.cmu.edu/~rongyes/IJCNN.pdf 
+
+### LDO Regulator
+
+
+-> How this skill relates to neural engineering? 
+
+### Analog Neural Networks
+Analog neural networks can substantially reduce, or even entirely eliminate, the necessity for analog-to-digital and digital-to-analog data conversion, as well as clock-driven logic. This, in turn, facilitates low-latency and contributes to a reduction in overall system complexity. Such advantages are of paramount importance in the development of wearable or implantable medical devices, where energy reserves are limited, and the physical size of the system is a critical design factor [31, 32].
+
+Despite the evident merits of analog implementations, the design of effective and reliable analog neural networks continues to be a formidable undertaking. In contrast to digital models, where the functional behavior of the network is largely abstracted from the specifics of the underlying hardware, analog designs are intimately tied to the physical characteristics and inherent non-idealities of the circuit elements used to realize each computational operation [33, 34].
 
 ### 🧩 **Transcranial Magnetic Stimulation Prototype for small animal studies**
 > *Development of TMS Coils and EM field detection system*
@@ -132,6 +156,10 @@ If your organization is developing next-generation RF systems or human-machine i
 ### 📎Journal Review
 Insights from Publisehd Articles
 
+
+## My Story
+
+How did you decide to become a analog/mixed circuit designer?
 
 ## 💪 Fitness
 
