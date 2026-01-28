@@ -66,6 +66,9 @@ ADS and Cadence Virtuoso.
 
 -> How this skill relates to neural engineering?
 
+### Miller Effect; Two Stage Miller OTA
+
+https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/tje2.70002 High-speed, two-stage operational transconductance amplifier without Miller capacitor, suitable for large capacitive load 
 
 ### Phase-Locked Loop
 https://www.ti.com/lit/ml/snaa106c/snaa106c.pdf 
@@ -144,6 +147,19 @@ Despite the evident merits of analog implementations, the design of effective an
 ---
 
 ## 🏂 Skill Demonstration
+
+### Cadence Virtuoso
+
+### ADS Keysight
+
+### Ansys HFSS
+
+### Electromagnetic Simulation with MATLAB and Python (FEM, FDTM, MoM)
+
+
+### Coreform
+
+
 
 
 
