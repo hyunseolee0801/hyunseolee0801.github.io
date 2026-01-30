@@ -146,9 +146,20 @@ Despite the evident merits of analog implementations, the design of effective an
 
 ### Cadence Virtuoso
 
+Demonstration of CMOS Inverter Design and Energy Delay Product(EDP) analysis with Spectre
+Schematic : 
+<p align="center">
+  <img src="CMOS Inverter.png" alt="Hyunseolee Lee" width="180" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+</p> 
+
+Simulation Results : 
+
+
 ### ADS Keysight
 
 ### Ansys HFSS
+
+
 
 ### Electromagnetic Simulation with MATLAB and Python (FEM, FDTM, MoM)
 
@@ -188,6 +199,7 @@ Microelectronic Circuits_Fundamentals
 - 🧠 [**GitHub**](https://github.com/hyunseolee0801)
 - ✉️ [**Email Me**](mailto:lee3325@purdue.edu)
 - ⚓ [**Notion**](https://mixolydian-psychology-c10.notion.site/Neuroscience-f23eedff8ec44a77a6a5cf4f63da14df)
+- 
 
 ---
 
