@@ -121,15 +121,15 @@ Despite the evident merits of analog implementations, the design of effective an
 ---
 
 ## 🧰 Technical Toolbox
-<!-- 
+
 | Category | Tools / Skills |
-|-----------|----------------|
--->
-| **RF & EM Design** | HFSS, ADS, CST, Smith Chart, S-parameters |
-| **Programming** | Python, MATLAB, C, Git |
-| **PCB & Simulation** | KiCad, Altium, LineCalc, EM-cosimulation |
-| **Neurotech** | EEG, TMS coil modeling, Neurophotonics |
-| **Automation** | SCPI, RF test scripting |
+|---|---|
+| RF & EM Design | HFSS, ADS, CST, Smith Chart, S-parameters |
+| Programming | Python, MATLAB, C, Git |
+| PCB & Simulation | KiCad, Altium, LineCalc, EM-cosimulation |
+| Neurotech | EEG, TMS coil modeling, Neurophotonics |
+| Automation | SCPI, RF test scripting |
+
 
 ---
 
