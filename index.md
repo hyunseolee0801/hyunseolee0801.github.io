@@ -179,6 +179,10 @@ How did you decide to become a analog/mixed circuit designer?
 
 ## Teaching / Test Materials
 
+Electromagnetic Theory
+Microelectronic Circuits_Fundamentals
+
+
 ## 🌐 Connect with Me
 - 💼 [**LinkedIn**](https://linkedin.com/in/hyunseolee0801)
 - 🧠 [**GitHub**](https://github.com/hyunseolee0801)
