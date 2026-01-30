@@ -1,7 +1,7 @@
 <!-- 
 ---
 title: "Hyunseo Lee[Tom] | Analog / Mixed Signal Design Portfolio"
-description: "Master’s student in Electrical & Computer Engineering at Purdue University | RFIC, Analog/ Mixed Signal Circuits, and Brain-Computer Interfaces"
+description: "Master’s student in Electrical & Computer Engineering at Purdue University | RFIC, Analog/ Mixed Signal Circuits, and Brain-Computer Interfaces."
 theme: jekyll-theme-cayman
 ---
 -->
