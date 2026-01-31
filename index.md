@@ -58,6 +58,9 @@ If your organization is developing next-generation RF systems or human-machine i
 ### Allan Katz High Efficiency Power Amplifier
 IEEE MTTS 
 
+Theory Overview --> Link to Slides(/project/assets/pdf/resume.pdf)
+
+
 ADS and Cadence Virtuoso. 
 
 -> How this skill relates to neural engineering?
