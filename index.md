@@ -54,14 +54,14 @@ If your organization is developing next-generation RF systems or human-machine i
 
 ## 🚀 Featured Projects
 
+### Allan Katz High-Efficiency Power Amplifier  
+**IEEE Microwave Theory and Techniques Society (MTT-S)**
 
-### Allan Katz High Efficiency Power Amplifier
-IEEE MTTS 
+**Theory Overview →**  
+[View Slides (HEPA Intro – Hyunseo Fri)](HEPA%20intro%20Hyunseo%20Fri.pdf)
 
-Theory Overview --> Link to Slides(/project/assets/pdf/resume.pdf)
+**Tools:** Keysight ADS, Cadence Virtuoso
 
-
-ADS and Cadence Virtuoso. 
 
 -> How this skill relates to neural engineering?
 
