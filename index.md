@@ -4,7 +4,7 @@ description: "Master’s student in Electrical & Computer Engineering at Purdue 
 ---
 
 # 👋 Hi, I'm **Hyunseo Lee** 이현서
-Welcome to my Website 🐧💕🐉
+Welcome to my Website 🐧💕🐉 [View Resume (PDF)](Hyunseo_Lee_Summer_2026_Intern_Resume_AnalogDigitalMixedRF.pdf)
 ### RF, Neurostimulation, EM Simulation Researcher | Purdue University  
 🌎 Residing in the U.S. | Formerly in Canada 🇨🇦 | Born In S.Korea 🇰🇷 [Citizenship]  
 Fluency : English, Korean
@@ -42,7 +42,7 @@ Focus: MRI, RF Coil
 
 ---
 
-[View Resume (PDF)](Hyunseo_Lee_Summer_2026_Intern_Resume_AnalogDigitalMixedRF.pdf)
+
 
 
 ## 🎯 Career Goals
