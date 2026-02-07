@@ -41,7 +41,7 @@ Focus: MRI, RF Coil
 📍 West Lafayette, IN, USA 
 
 ---
-
+[View Resume - (Hyunseo_Lee_Summer_2026_Intern_Resume_AnalogDigitalMixedRF.pdf)
 
 ## 🎯 Career Goals
 I am currently seeking a **Summer 2026 internship** opportunity in **RF engineering, antenna design, or neurotechnology hardware**.  
